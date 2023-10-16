@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArtOfNothing
 - 👀 I’m interested in proving my dad wrong :)
-- 🌱 I’m currently learning web development (javascript, bootstrap, nodejs, mongodb, react)
+- 🌱 I’m currently learning web development (javascript, bootstrap, nodejs, vue, mongodb, react)
 - 💞️ I’m looking to collaborate on creative projects
 
 <!---
